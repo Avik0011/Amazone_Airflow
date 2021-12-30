@@ -1,0 +1,6 @@
+version = 'v2'
+advertise = 'sp'
+token = 'Atza|IwEBIOosyWpnJ0KuFHadvjZ_fCjIJYORBORAGFmGGmvLis7cPmoHpYv-2e2u39p-oYR8iLSp1FmJHNxpcj7MSPX1T1bm_XbZY4_2xSS_-vtlod864wLR51m9ZXNs39r5kCcTMAfiHfPbTynJoQYm2aZ9paEEii4oVoG1r0TWprbGF8ODnT85HECWWXotfv8Hgofy1GYbBAfq-rto3DIRcq3fGmfKXWJ7oSBJ-DH_-XFUIxIwNB7_5WBtwmGAxZSlSJ92uYR2nvCetsKSlAY4H5m6Nw0RDum_cnOL684mre-aTWTnewCRyNTGJ-BZJlVXN-TNmhw9rlyIHtATUd1pUWndrC5F-XWTutshNL1aKJ9NIhshnq_jNTfK0ySBcle46mmhxyevTesan6nUzP68zgbpvpf-GigFPdUE-qEtLPOBjVvg7w'
+ClientID = 'amzn1.application-oa2-client.fb4123f0badf46c2bdf512cf578baf80'
+scope = "2552509699822267"
+url = 'https://advertising-api-eu.amazon.com'
